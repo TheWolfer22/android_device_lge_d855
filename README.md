@@ -8,9 +8,9 @@ Basic   | Spec Sheet
 CPU     | Quad-core 2.5 GHz Krait 400
 CHIPSET | Qualcomm MSM8975AC Snapdragon 801
 GPU     | Adreno 330
-Memory  | 3GB RAM
+Memory  | 2/3GB RAM
 Shipped Android Version | 4.4.2
-Storage | 32GB
+Storage | 16/32GB
 MicroSD | Up to 128GB
 Battery | 3000 mAh
 Dimensions | 146.3 x 74.7 x 8.9 mm
